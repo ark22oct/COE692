@@ -5,6 +5,9 @@ In-depth exploration of critical aspects related to the implementation of softwa
 
 # Project (Online E-Bookstore System) Overview
 
+## Use-Case
+<img width="719" alt="Screen Shot 2024-05-01 at 7 41 48 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/938f170a-8868-46f7-ade7-301f512b4c0b">
+
 ## Login View
 <img width="1397" alt="Screen Shot 2024-05-01 at 7 25 31 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/25b25ded-61f0-4804-8be4-1b3b4349a0cc">
 
