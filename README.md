@@ -5,12 +5,12 @@ In-depth exploration of critical aspects related to the implementation of softwa
 
 # Project (Online E-Bookstore System) Overview
 
-## Admin View
-<img width="1403" alt="Screen Shot 2024-05-01 at 7 24 05 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/1edc8d9b-c0bd-4ed7-9aa3-45ee372211dc">
-
 ## Login View
 <img width="1397" alt="Screen Shot 2024-05-01 at 7 25 31 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/25b25ded-61f0-4804-8be4-1b3b4349a0cc">
 
 ## Member View
-<img width="509" alt="Screen Shot 2024-05-01 at 7 31 48 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/e0a57239-87fc-442a-b858-8ff1bcd8fb43">
-<img width="454" alt="Screen Shot 2024-05-01 at 7 32 01 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/75da432c-9951-4138-a4be-e0a75b872703">
+<img width="1400" alt="Screen Shot 2024-05-01 at 7 36 13 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/5a921165-c232-4cdb-855f-c5f1a52dcac7">
+
+## Admin View
+<img width="1403" alt="Screen Shot 2024-05-01 at 7 24 05 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/1edc8d9b-c0bd-4ed7-9aa3-45ee372211dc">
+
