@@ -15,7 +15,7 @@ In-depth exploration of critical aspects related to the implementation of softwa
 <img width="646" alt="Screen Shot 2024-05-01 at 8 47 36 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/be5ada5f-8949-4c80-8c36-8a1af435c481">
 
 ## Sequenece Diagram for Admin adding Book
-<img width="679" alt="Screen Shot 2024-05-01 at 8 48 28 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/f05ce937-9921-47dc-8fdd-152a6c504e08">
+<img width="710" alt="Screen Shot 2024-05-01 at 9 16 59 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/16e7a3d9-e4d9-4b5b-8027-4764359c4da3">
 
 ## Login View
 <img width="1397" alt="Screen Shot 2024-05-01 at 7 25 31 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/25b25ded-61f0-4804-8be4-1b3b4349a0cc">
