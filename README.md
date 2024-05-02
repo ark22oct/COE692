@@ -20,7 +20,9 @@ The online e-bookstore serves as a platform to facilitate the purchase and brows
 ## ER Diagram
 <img width="750" alt="Screen Shot 2024-05-01 at 8 45 38 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/d3adc34e-d2b6-42c7-ad6f-18f18731826b">
 
+
 The system's data model includes entities such as Sellers, Members, Books, and Admin, with relationships defining interactions between them. For example, Members have a Purchases relationship with Books, indicating books they have bought.
+
 
 ## Sequence Diagram For Member adding Book
 <img width="710" alt="Screen Shot 2024-05-01 at 8 47 36 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/be5ada5f-8949-4c80-8c36-8a1af435c481">
