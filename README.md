@@ -9,7 +9,7 @@ The online e-bookstore serves as a platform to facilitate the purchase and brows
 ## Use-Case
 <img width="750" alt="Screen Shot 2024-05-01 at 7 41 48 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/938f170a-8868-46f7-ade7-301f512b4c0b">
 
-Key Actors:
+### Key Actors:
 1. Members: These are the main customers who can browse and purchase books from the e-bookstore. They have access to various functionalities, including searching for books by different   
    criteria and making purchases.
 2. Guests: Visitors who can view catalogues and services but need to register as members to make purchases.
@@ -36,3 +36,8 @@ The system's data model includes entities such as Sellers, Members, Books, and A
 
 ## Admin View
 <img width="1400" alt="Screen Shot 2024-05-01 at 7 24 05 PM" src="https://github.com/ark22oct/Software-Design-and-Architecture/assets/77360623/1edc8d9b-c0bd-4ed7-9aa3-45ee372211dc">
+
+
+The project is implemented using various technologies and databases tailored to each microservice's functionality. For instance, the login microservice incorporates GUI management and authentication, while the buy and add book microservices handle book purchasing and addition, respectively, using dedicated databases for each task.
+
+Overall, the project aims to create a user-friendly and efficient online e-bookstore platform, enhancing access to literature and promoting a culture of reading globally.
